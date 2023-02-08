@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es"
+    xml:base="https://github.com/javigonro10/-ATOM-FJGR/proyecto_FJGR.xml">
+    <id>https://github.com/javigonro10/-ATOM-FJGR/proyecto_FJGR.xml</id>
+    <title>Sevilla fc - Ultimas Noticias</title>
+    <updated>2023-01-03T18:30:02Z</updated>
+    <link rel="self" href="https://github.com/javigonro10/-ATOM-FJGR/proyecto_FJGR.xml"/>
+    <author>
+        <name>Fco. Javier Gonzalez Romero</name>
+        <email>a22gorofr@iesgrancapitan.org</email>
+    </author>
+    <generator>GitHub</generator>
+
+    <category term="Noticias Sevilla fc"/>
+    <rights>Copyright (c) 2023, Fco. Javier Gonzalez</rights>
+
+    <entry>
+        <id>https://www.estadiodeportivo.com/futbol/sevilla-fc/dilema-sampaoli-falso-nueve-delantero-puro-20230205-412744.html</id>
+        <title>El dilema de Sampaoli: 'falso nueve' o delantero puro</title>
+        <updated>2023-03-13T18:30:02Z</updated>
+        <rights>FernandoRuizED@ed.com</rights>
+        <link href="https://www.estadiodeportivo.com/futbol/sevilla-fc/dilema-sampaoli-falso-nueve-delantero-puro-20230205-412744.html" />
+        <summary>>Jorge Sampaoli sopesa la idea de mantener el dibujo con tres centrales y un delantero referencia o bien recuperar la figura del 'falso nueve' como ha hecho en otros escenarios como el Santiago Bernabéu</summary>
+        <link rel="enclosure" type="image/jpeg" title="El dilema de Sampaoli: 'falso nueve' o delantero puro" href="https://github.com/javigonro10/-ATOM-FJGR/blob/main/falso9.jpeg" length="1234"/>
+    </entry>
+
+    <entry>
+        <id> https://www.sevillafc.es/sites/default/files/block_files/La%20Historia%20completa%20del%20Sevilla%20F%C3%BAtbol%20Club.pdf</id>
+        <title>Historia Completa del Sevilla Fc</title>
+        <updated>2023-03-13T18:30:02Z</updated>
+        <rights>FernandoRuizED@ed.com</rights>
+        <link href="https://www.sevillafc.es/sites/default/files/block_files/La%20Historia%20completa%20del%20Sevilla%20F%C3%BAtbol%20Club.pdf" />
+        <summary>Aqui se vera la historia completa deL Sevilla fc</summary>
+        <link rel="enclosure" xml:lang="en-us" title="" type="application/pdf" hreflang="en-us" href="https://github.com/javigonro10/-ATOM-FJGR/blob/main/La%20Historia%20completa%20del%20Sevilla%20F%C3%BAtbol%20Club.pdf" length="1234"/>
+    </entry>
+
+    <entry>
+        <id>https://www.estadiodeportivo.com/futbol/sevilla-fc/sampaoli-repasa-enfermeria-del-sevilla-las-opciones-europa-plan-para-sorprender-barca-20230203-412615.html</id>
+        <title>Sampaoli repasa la enfermería del Sevilla, las opciones de ir a Europa y su plan para sorprender al Barça</title>
+        <updated>2023-03-13T18:30:02Z</updated>
+        <rights>ATorviscoED@ed.com</rights>
+        <link href="https://www.estadiodeportivo.com/futbol/sevilla-fc/sampaoli-repasa-enfermeria-del-sevilla-las-opciones-europa-plan-para-sorprender-barca-20230203-412615.html" />
+        <summary>El argentino pide ser "sinceros con la realidad" y, aunque admite que el equipo "ha crecido porque ha aumentado el rendimiento individual", considera que aún están lejos del nivel que se les exige y que hará falta para poder romper la mala racha en el Camp Nou.</summary>
+        <link rel="enclosure" type="image/png" title="Sampaoli repasa la enfermería del Sevilla, las opciones de ir a Europa y su plan para sorprender al Barça" href="https://github.com/javigonro10/-ATOM-FJGR/blob/main/Jorge-Sampaoli.png" length="1234"/>
+    </entry>
+
+    <entry>
+        <id>https://www.estadiodeportivo.com/futbol/sevilla-fc/primeras-palabras-pape-gueye-como-sevillista-hablar-con-sampaoli-sido-decisivo-20230130-412399.html</id>
+        <title>Primeras palabras de Pape Gueye como sevillista: "Hablar con Sampaoli ha sido decisivo</title>
+        <updated>2023-03-13T18:30:02Z</updated>
+        <rights>joseriverof@ed.com</rights>
+        <link href="https://www.estadiodeportivo.com/futbol/sevilla-fc/primeras-palabras-pape-gueye-como-sevillista-hablar-con-sampaoli-sido-decisivo-20230130-412399.html" />
+        <summary>"No creo que me sea difícil adaptarme al equipo, yo sé que depende de mí, así que haré todo lo posible para estar bien sobre el campo"</summary>
+        <link rel="enclosure" type="aplicación/xhtml+html" title="Primeras palabras de Pape Gueye como sevillista: Hablar con Sampaoli ha sido decisivo" href="https://www.estadiodeportivo.com/futbol/sevilla-fc/primeras-palabras-pape-gueye-como-sevillista-hablar-con-sampaoli-sido-decisivo-20230130-412399.html" length="1234"/>
+    </entry>
+
+</feed>
